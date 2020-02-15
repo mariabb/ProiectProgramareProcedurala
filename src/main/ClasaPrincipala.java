@@ -10,13 +10,15 @@ public class ClasaPrincipala {
 			//System.out.println("Hello world!");
 			
 			//pba 2:
-			double d=3.95;
+			double d=2.95;
 
 			 int i=4;
 
 			 System.out.println(++d>i?d:i); // daca d este mai mic ca i atunci ia valoarea lui
 
 			// daca d este mai mare atunci il incrementeaza si da valoarea lui
+			 //in acest caz se afiseaza 4.
+			 
 			 //pba3:
 			 int a = 3;
 
@@ -31,6 +33,7 @@ public class ClasaPrincipala {
 						System.out.println(a);
 				
 				// nu  afiseaza nimic pt ca 4<4
+				
 				//pba4:Am redenumit i in i1, fiindca ,mai am un i in program
 				
 				int suma=0;

@@ -4,7 +4,7 @@ public class javaPba6 {
 
 	public static void main(String[] args) {
 
-		int x = 2, y =4, z = 3, min;
+		int x = 2, y =2, z = 4, min;
 
 		min = x;
 
@@ -19,5 +19,5 @@ public class javaPba6 {
 		System.out.println("Cel mai mic numar este:" + min);
 
 	}
-
+//se afiseaza: cel mai mic numar este: 2
 }

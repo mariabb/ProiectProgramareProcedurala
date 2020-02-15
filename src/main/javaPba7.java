@@ -19,6 +19,6 @@ public class javaPba7 {
 
 			System.out.println("Numarul "+number+" este impar.");
 
-
+//Se va afisa numarul 10 este par.
 	}
 }

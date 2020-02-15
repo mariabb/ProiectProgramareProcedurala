@@ -48,7 +48,8 @@ public class javaPba8 {
 			System.out.println("Duminica");
 
 			break;
-
+			
+//se va afisa: Duminica
 		}
 
 	}
