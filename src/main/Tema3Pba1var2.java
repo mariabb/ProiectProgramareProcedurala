@@ -9,7 +9,6 @@ public class Tema3Pba1var2 {
 
 				System.out.println("Element on index " + i + " is: " + myArray[i]);
 	}
-
 }
 }
 
